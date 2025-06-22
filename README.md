@@ -145,5 +145,10 @@ Maintains comprehensive documentation including README files, API docs, database
   - **Docker** for containerization of the application
 
 ---
+## 👤 Author
 
+**Faith Cherono**  
+- GitHub: [@FaithRono](https://github.com/FaithRono)  
+- LinkedIn: [Faith Cherono](https://www.linkedin.com/in/faith-cherono/)  
+- Twitter: [@Faithrono8874](https://twitter.com/Faithrono8874)
 
